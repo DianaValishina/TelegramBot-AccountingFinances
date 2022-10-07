@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+finance.db
+.idea/
+venv/
+sqlite/SQLiteStudio
+**/__pycache__
+env/
